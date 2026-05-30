@@ -61,5 +61,5 @@ console.log("Las operaciones resueltas son: ",
     "División: ", div,
     "Residuo: ", residuo,
     "Potencia: ", potencia,
-    
-)
+
+);
